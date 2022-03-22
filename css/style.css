@@ -2,3 +2,7 @@ body {
   background-color: #f8e8a6;
   text-align: center;
 }
+.link-container {
+  display: flex;
+  justify-content: space-between;
+}
